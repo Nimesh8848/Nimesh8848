@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nimesh8848
 - 👀 I’m interested in web develeopment
-- 🌱 I’m currently learning PHP and Javascript for web development
+- 🌱 I’m currently learning DotNet and Javascript for web development
 - 💞️ I’m looking to collaborate on web development project
 - 📫 How to reach me Through my gmail
 
