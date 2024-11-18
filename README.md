@@ -1,8 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Nimesh Mathema</h1>
 <h3 align="center">A passionate Backend develeoper from Nepal</h3>
-<img align="right" alt="coding" width="400" src="https://giphy.com/gifs/pudgypenguins-internet-bard-chatgpt-2rjsiAfUxEZNsGzv76">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nimesh8848&label=Profile%20views&color=0e75b6&style=flat" alt="nimesh8848" /> </p>
+
 
 - 🌱 I’m currently learning **AspNetCore**
 
