@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! My name is Nimesh Mathema and I'm a Software Engineer from Nepal</h2>
 
-###
+
 
 <img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHVmcGU5ZnVycTkwc256dTBiZDM2dWduM2hmamdqYzU5YXRjaGF1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RDnBOLf1rwsIo/giphy.gif"  />
 
